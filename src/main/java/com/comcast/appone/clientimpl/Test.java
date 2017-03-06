@@ -10,4 +10,8 @@ public class Test {
 		System.out.println("updates ONE brnach");
 		System.out.println("updates TWO branch");
 	}
+
+	public static void add() {
+		System.out.println("for second branch");
+	}
 }
