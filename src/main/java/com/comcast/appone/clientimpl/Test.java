@@ -8,4 +8,8 @@ public class Test {
 		DateTime dt = new DateTime();
 		System.out.println(dt.getHourOfDay());
 	}
+
+	public static void add() {
+		System.out.println("for second branch");
+	}
 }
